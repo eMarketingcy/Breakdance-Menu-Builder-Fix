@@ -2,12 +2,12 @@
 Fixes active menu state issues in Breakdance Menu Builder for dropdown items and mobile navigation.
 
 === Breakdance Menu Builder Fix ===
-Contributors: emarketingcy
+Contributors: eMarketingcy
 Tags: breakdance, menu, navigation, dropdown, mobile
 Requires at least: 5.0
-Tested up to: 6.4
+Tested up to: 6.8
 Requires PHP: 7.4
-Stable tag: 1.0.0
+Stable tag: 2.1.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -77,7 +77,7 @@ The plugin automatically detects and works with both WordPress menus and custom 
 
 == Changelog ==
 
-= 1.0.0 =
+= 2.1.1 =
 * Initial release
 * Fix for dropdown menu active states
 * Fix for parent menu highlighting
@@ -87,5 +87,5 @@ The plugin automatically detects and works with both WordPress menus and custom 
 
 == Upgrade Notice ==
 
-= 1.0.0 =
+= 2.1.1 =
 Initial release of the Breakdance Menu Builder Fix plugin.
